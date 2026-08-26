@@ -1,4 +1,4 @@
-# Hospital Appointment Booking — Roll No. 11
+# Hospital Appointment Booking 
 
 A web application for the college FastAPI assignment. The backend exposes REST APIs and the frontend consumes those APIs with vanilla JavaScript.
 
